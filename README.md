@@ -1,6 +1,6 @@
 # Hi, I'm Amit Singh 👋
 
-Senior Backend Software Engineer with 5+ years of experience building, modernizing, and operating business-critical distributed systems, microservices, and B2B integration platforms.
+Senior Backend Software Engineer with 6+ years of experience building, modernizing, and operating business-critical distributed systems, microservices, and B2B integration platforms.
 
 I enjoy solving complex backend problems, designing scalable systems, improving reliability, and taking ownership from system design through production.
 
