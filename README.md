@@ -33,6 +33,20 @@ I enjoy solving complex backend problems, designing scalable systems, improving 
 ### Observability & Reliability
 `New Relic` `Coralogix` `Zenduty`
 
+## Featured Projects
+
+### [Secure Data Transmission](https://github.com/as271996/secure-data-transmission)
+Java desktop application combining **AES encryption, LZW compression, LSB image steganography, authentication, and multithreaded data extraction** to demonstrate a layered approach to secure data transmission.
+
+### [Java Client-Server Messenger](https://github.com/as271996/java-client-server-messenger)
+Multi-user desktop messaging system built with **Java, TCP sockets, and multithreading**, supporting private and broadcast messaging, connected-user management, direct client-to-client file transfer, and local chat history.
+
+### [Spring Boot Blog Application](https://github.com/as271996/spring-boot-blog-application)
+Full-stack web application built with **Spring Boot, Spring MVC, Spring Security, JPA, Thymeleaf, and PostgreSQL**, featuring authentication, post and comment management, tags, search, pagination, filtering, and scheduled publishing.
+
+### [Image Steganography](https://github.com/as271996/image-steganography-java)
+Java Swing application demonstrating **Least Significant Bit (LSB) image steganography**, allowing text to be embedded inside images and later extracted while preserving the visual appearance of the carrier image.
+
 ## Engineering Interests
 
 - Distributed Systems
