@@ -1,76 +1,91 @@
 # Hi, I'm Amit Singh 👋
 
-Senior Backend Software Engineer with 6+ years of experience building, modernizing, and operating business-critical distributed systems, microservices, and B2B integration platforms.
+Backend Software Engineer with **6+ years of experience** building and operating distributed systems, microservices, and B2B integration platforms.
 
-I enjoy solving complex backend problems, designing scalable systems, improving reliability, and taking ownership from system design through production.
+I primarily work with **Java, Spring Boot, and Rust**, and enjoy solving problems around scalability, reliability, API design, workflow orchestration, and production engineering.
+
+My experience includes building partner-facing platforms, modernizing legacy systems, designing reusable backend services, improving fault tolerance, and owning systems from design through production.
 
 ## About Me
 
-- 💻 Backend-focused engineer working primarily with **Java, Spring Boot, Rust, and Python**
-- 🧠 Strong interest in **Distributed Systems, System Design, Microservices, and Backend Architecture**
-- ⚙️ Experienced in designing **scalable APIs, orchestration workflows, fault-tolerant systems, and production-grade services**
-- 📈 Worked on systems involving **high-throughput traffic, partner integrations, observability, reliability, and platform modernization**
-- 🤝 Experienced in **code reviews, mentoring, technical decision-making, and cross-functional collaboration**
-- 🚀 Currently focused on strengthening expertise in **high-scale backend systems and distributed architecture**
+- 💻 Backend-focused engineer with experience in **Java, Spring Boot, Rust, Python, and SQL**
+- 🏗️ Worked on **distributed systems, microservices, REST APIs, and workflow orchestration**
+- ⚡ Built and operated systems involving **high-throughput traffic, caching, rate limiting, idempotency, and fault tolerance**
+- 🔄 Experienced in **legacy modernization and migration from Rust-based systems to Java/Spring Boot platforms**
+- 🔌 Worked extensively on **B2B integrations and partner-facing backend systems**
+- 📊 Hands-on with **observability, production debugging, incident response, and reliability improvements**
+- 🤝 Experienced in **technical design, code reviews, mentoring, and cross-functional engineering**
+- 🚀 Currently deepening my expertise in **large-scale distributed systems and backend architecture**
 
 ## Tech Stack
 
 ### Languages
 `Java` `Rust` `Python` `SQL`
 
-### Backend & Frameworks
+### Backend
 `Spring Boot` `Actix` `REST APIs` `Microservices`
 
-### Databases & Caching
+### Data
 `PostgreSQL` `Redis`
 
 ### Cloud & Infrastructure
 `AWS` `Docker` `Kubernetes` `Nginx`
 
-### Workflow & Platform
+### Workflow & Automation
 `Apache Airflow` `Netflix Conductor` `Jenkins`
 
-### Observability & Reliability
+### Observability
 `New Relic` `Coralogix` `Zenduty`
 
 ## Featured Projects
 
 ### [Secure Data Transmission](https://github.com/as271996/secure-data-transmission)
-Java desktop application combining **AES encryption, LZW compression, LSB image steganography, authentication, and multithreaded data extraction** to demonstrate a layered approach to secure data transmission.
+
+Final-year engineering project combining **AES encryption, LZW compression, LSB image steganography, Java sockets, and multithreaded extraction** into an end-to-end data-protection workflow.
 
 ### [Java Client-Server Messenger](https://github.com/as271996/java-client-server-messenger)
-Multi-user desktop messaging system built with **Java, TCP sockets, and multithreading**, supporting private and broadcast messaging, connected-user management, direct client-to-client file transfer, and local chat history.
+
+Multi-user messaging application built with **Java, TCP sockets, Swing, and multithreading**, supporting private and broadcast messaging, connected-user tracking, file transfer, and local chat history.
 
 ### [Spring Boot Blog Application](https://github.com/as271996/spring-boot-blog-application)
-Full-stack web application built with **Spring Boot, Spring MVC, Spring Security, JPA, Thymeleaf, and PostgreSQL**, featuring authentication, post and comment management, tags, search, pagination, filtering, and scheduled publishing.
+
+Full-stack blog platform built with **Spring Boot, Spring MVC, Spring Security, JPA, Thymeleaf, and PostgreSQL**, with authentication, post and comment management, tags, search, filtering, pagination, and scheduled publishing.
 
 ### [Image Steganography](https://github.com/as271996/image-steganography-java)
-Java Swing application demonstrating **Least Significant Bit (LSB) image steganography**, allowing text to be embedded inside images and later extracted while preserving the visual appearance of the carrier image.
+
+Java Swing application implementing **Least Significant Bit (LSB) image steganography** for embedding and extracting text data from images.
 
 ## Engineering Interests
 
 - Distributed Systems
-- System Design
 - Backend Architecture
+- System Design
 - API Design
 - Microservices
 - Scalability & Performance
 - Reliability Engineering
+- Concurrency
 - Workflow Orchestration
 - Production Engineering
 
 ## Currently Working On
 
-- Building stronger hands-on projects around distributed systems
-- Designing scalable backend architectures
-- Exploring reliability and performance patterns
-- Improving system-design depth for large-scale applications
+I'm currently building and strengthening hands-on projects around:
+
+- Distributed backend systems
+- Payment orchestration
+- Idempotency and transaction handling
+- Caching and rate limiting
+- Asynchronous and event-driven processing
+- Failure handling and resilience
+- Observability and integration testing
+- Production-style Java / Spring Boot architecture
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/amit-singh-sp27](https://www.linkedin.com/in/amit-singh-sp27/)
-- GitHub: [github.com/as271996](https://github.com/as271996)
+- [LinkedIn](https://www.linkedin.com/in/amit-singh-sp27/)
+- [GitHub](https://github.com/as271996)
 
 ---
 
-> I like building backend systems that are simple to understand, reliable in production, and scalable as usage grows.
+> I enjoy building backend systems that are easy to reason about, reliable in production, and designed to scale as complexity and traffic grow.
